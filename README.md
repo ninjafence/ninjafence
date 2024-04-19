@@ -4,3 +4,4 @@ NinjaFence is a low-cost automated table saw fence controller. Table saws are on
 
 ---
 
+# NinjaFence user manual [WiKi](https://github.com/ninjafence/ninjafence/wiki)
