@@ -49,6 +49,8 @@ Any issues or feature requests, please let me know and I will continue to improv
 * Blinking Yellow: NinjaFence is idle.
 * Blinking Red: There has error, use __**Unlock**__ to clear the error.
 
+---
+
 # NinjaFence Touchscreen Interface
 
 ![](./pic/ninjafence_touchscreen.png)
