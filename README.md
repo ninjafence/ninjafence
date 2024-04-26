@@ -43,6 +43,10 @@ Any issues or feature requests, please let me know and I will continue to improv
 
 ---
 
+![](./pic/ninjafence_lab_wire.jpg)
+
+---
+
 # NinjaFence LED Indicator
 
 * Solid Green: NinjaFence is moving.
