@@ -68,7 +68,7 @@ For the first setup your table saw fence, you may need to set some parameters wh
 depends on your machine.
 
 When power on NinjaFence, you can scan the wifi device named by __**"NinjaFence"**__ through
-cellphone or tablet or PC. The wifi password is __**"ninjafence"**__, then open your web browser, try to input the website __**"192.168.0.1"**__ or __**"ninjafence.local"__, and finally you will see this web interface:
+cellphone or tablet or PC. The wifi password is __**"ninjafence"**__, then open your web browser, try to input the website __**"192.168.0.1"**__ or __**"ninjafence.local"**__, and finally you will see this web interface:
 
 ![](./pic/ninjafence_web.png)
 
@@ -115,4 +115,9 @@ The stepper motor pulse greater than 200 is beffer, this means that 1 stepper mo
 This block is to update NinjaFence firmware.
 
 ---
+
+
+# Developer Information
+
+* Github repository: https://github.com/ninjafence/ninjafence
 
