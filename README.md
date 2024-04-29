@@ -8,6 +8,12 @@ Any issues or feature requests, please let me know and I will continue to improv
 
 ---
 
+# NinjaFence Video
+
+[![NinjaFence](https://img.youtube.com/vi/UwuPXD9mtLU/0.jpg)](https://www.youtube.com/watch?v=UwuPXD9mtLU)
+
+---
+
 # NinjaFence Feature list
 * [x] One stepper motor control
 * [x] Hardware/Software limit
