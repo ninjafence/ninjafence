@@ -61,7 +61,7 @@ Any issues or feature requests, please let me know and I will continue to improv
 
 ---
 
-# NinjaFence Touchscreen Interface
+# NinjaFence 4.3 inch Touchscreen Interface
 
 ![](./pic/ninjafence_touchscreen.png)
 
