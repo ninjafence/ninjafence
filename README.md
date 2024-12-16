@@ -127,3 +127,6 @@ This block is to update NinjaFence firmware.
 
 * Github repository: https://github.com/ninjafence/ninjafence
 
+# Amazon link
+
+* https://www.amazon.com/dp/B0D41JLJ99
